@@ -13,4 +13,4 @@ Repo für Team1 in "Sponsored Challenges"
 - Mobile:
 
 ## Reminder
-<span style="color:red;">Sichtbarkeit auf 'private' setzen</span>
+Sichtbarkeit auf 'private' setzen
